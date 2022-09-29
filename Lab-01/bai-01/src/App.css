@@ -1,0 +1,26 @@
+.App {
+    padding: 20px 50px;
+}
+.table {
+    border: solid 1px;
+    display: flex;
+    flex-direction: row;
+}
+.left {
+    margin: 0;
+    width: 50%;
+    border-right: solid 1px;
+    display: flex;
+    justify-content: center;
+}
+.left img {
+    max-width: 130px;
+    padding: 10px 0;
+  }
+  .right {
+    margin: 0;
+    width: 50%;
+  }
+  .right p {
+    margin: 5px;
+  }
