@@ -1,0 +1,19 @@
+.App {
+    padding: 20px 50px;
+}
+.main {
+  border: solid 1px;
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+td,th {
+  border: solid 1px;
+  text-align: center;
+}
+th {
+  background-color: #1e7898 ;
+}
+.day {
+  background-color: #51abcb;
+}

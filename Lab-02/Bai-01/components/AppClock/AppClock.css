@@ -1,0 +1,13 @@
+.box {
+    width: 200px;
+    background-color: dodgerblue;
+    margin: 10px;
+    height: 200px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
