@@ -1,0 +1,16 @@
+.game-square {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 100px;
+    box-shadow: rgba(149, 157, 165, 0.20) 0px 8px 24px;
+}
+
+.game-square.is-x {
+    color: #2cccff;
+}
+.game-square.is-o {
+    color: #ff6651;
+}
