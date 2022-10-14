@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+.App {
+  
+  margin: 200px 423px;
+  
+
+}
+.Temp{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,10 +1,10 @@
 import "./App.css";
-import CountdownTime from "./Components/CountdownTime/CountdownTime";
+import TemperatureConverter from "./Components/TemperatureConverter";
 
 function App() {
   return (
     <div className="App">
-      <CountdownTime />
+      <TemperatureConverter />
     </div>
   );
 }

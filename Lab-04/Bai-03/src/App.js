@@ -1,10 +1,10 @@
 import "./App.css";
-import Random from "./Components/Random/Random";
+import Gallary from "./Components/Gallary";
 
 function App() {
   return (
     <div className="App">
-      <Random />
+      <Gallary />
     </div>
   );
 }
