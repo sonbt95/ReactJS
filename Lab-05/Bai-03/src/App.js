@@ -1,10 +1,10 @@
 import "./App.css";
-import Gallary from "./Components/Gallary";
+import CountdownList from "./Components/CountdownList";
 
 function App() {
   return (
     <div className="App">
-      <Gallary />
+      <CountdownList />
     </div>
   );
 }

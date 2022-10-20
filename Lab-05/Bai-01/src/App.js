@@ -1,10 +1,10 @@
 import "./App.css";
-import TemperatureConverter from "./Components/TemperatureConverter";
+import Profile from "./Components/Profile";
 
 function App() {
   return (
     <div className="App">
-      <TemperatureConverter />
+      <Profile />
     </div>
   );
 }
