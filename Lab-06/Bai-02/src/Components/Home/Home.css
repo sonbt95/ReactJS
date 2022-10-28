@@ -1,0 +1,31 @@
+.carousel-title{
+    bottom: 150px;
+    z-index: 2;
+}
+.button{
+    background: orange;
+    font-weight: 400;
+    color: #fff;
+    padding: 10px 20px;
+    line-height: 2.3;
+}
+
+.menu-content {
+    padding: 70px;
+}
+.card-menu {
+    padding: 40px;
+    font-weight: 500;
+    font-size: 30px;
+    color: white;
+    text-transform: uppercase;
+}
+.card-menu .orange{
+    background-color: orange;
+}
+.card-menu .blue{
+    background-color: aqua;
+}
+.card-menu .green{
+    background-color: rgb(52, 136, 52);
+}
